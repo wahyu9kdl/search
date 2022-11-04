@@ -1,5 +1,9 @@
 # SEARCH AWDEV
 
+<b>SEARCH AWDEV COSTUME GOOGLE</b>
+![./asset/img/Google.png](/asset/img/Google.png)
+
+
 Search Awdev Merupakan Sebuah mesin Pencari yang dibuat mengunakan Layanan Google Custom Search Engine (CSE) .
 Tujuan Pembuatan SEARCH AWDEV adalah Untuk membantu pengguna dalam menelusur informasi yang diperlukan dengan memasukan kata kunci kemudian mesin pencari akan menelusur secara otomatis sehingga pengguna dapat menemukan informasi dengan mudah.
 Segera Anda Uji Coba SEARCH AWDEV , Berikut ini :
@@ -14,6 +18,8 @@ https://search.awdev.eu.org
 
 Costume :
 https://s.awdev.eu.org
+
+![./asset/img/search-awdev.jpeg](/asset/img/search-awdev.jpeg)
 
 # PENGGUNAAN
 
